@@ -1,5 +1,5 @@
 RED="\e[31m"
-BLUE="\e[32m"
+BLUE="\e[36m"
 ENDCOLOR="\e[0m"
 
 clear
